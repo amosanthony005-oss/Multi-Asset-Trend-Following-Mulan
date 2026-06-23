@@ -135,6 +135,4 @@ Bitget tools used: GetAgent Studio — Playbook
 
 Paper trading: Live since Jun 22 · 14 trades · 64% win rate · 2.17× profit factor · +3.5% return
 
----
 
-Ready for the trading log CSV and Twitter thread next?
