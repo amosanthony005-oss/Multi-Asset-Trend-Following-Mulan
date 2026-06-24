@@ -120,7 +120,7 @@ atr_tp_multiplier   = 4.0
 ## Submission Links
 
 - 🔗 [GetAgent Studio Strategy](#) https://getagent.studio/strategy/bdb127c7-15ea-41ce-abf4-f2ccfc72bf1d
-- 📊 [Backtest Report](#) 
+- 📊 [Backtest Report](#) https://github.com/amosanthony005-oss/Multi-Asset-Trend-Following-Mulan/blob/main/trading_log.csv
 - 
 
 ---
