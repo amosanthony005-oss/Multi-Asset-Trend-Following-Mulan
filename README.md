@@ -1,6 +1,6 @@
 # Multi-Asset Trend Following Strategy
 > Bitget AI Hackathon S1 — Trading Agent Track  
-> by [@amosanthony005](https://getagent.bitget.com)
+> by Favours
 
 ---
 
@@ -119,13 +119,12 @@ atr_tp_multiplier   = 4.0
 
 ## Submission Links
 
-- 🔗 [GetAgent Studio Strategy](#) *(add your public Playbook link)*
-- 📊 [Backtest Report](#) *(add GitHub link if uploading)*
-- 🎥 [Demo Video](#) *(add YouTube/X link if applicable)*
+- 🔗 [GetAgent Studio Strategy](#) https://getagent.studio/strategy/bdb127c7-15ea-41ce-abf4-f2ccfc72bf1d
+- 📊 [Backtest Report](#) 
+- 
 
 ---
 
 ## Hackathon
 
 **Bitget AI Hackathon S1** — Trading Agent Track  
-Submitted: June 24, 2026
